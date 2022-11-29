@@ -939,4 +939,10 @@ title/.* - 小.(百科 | 知识) 网/
 *://m.china-audit.com/*  
 *://www.djnecn.com/*  
 *://www.5722077.com/*  
-*://www.3955016.com/*  
+*://www.3955016.com/*
+*://www.lxiaoyu.com/*
+*://dandelioncloud.cn/*
+*://www.u72.net/*
+*://www.62042.com/*
+*://www.fengnayun.com/*
+*://www.mk2048.com/*
