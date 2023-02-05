@@ -946,3 +946,8 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.62042.com/*
 *://www.fengnayun.com/*
 *://www.mk2048.com/*
+*://www.yanlutong.com/*
+*://www.dealmoon.com/*
+*://www.xbfhb.com/*
+*://www.ngui.cc/*
+*://www.leniuwang.com/*
