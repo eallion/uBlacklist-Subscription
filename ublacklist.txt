@@ -946,7 +946,6 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.62042.com/*
 *://www.fengnayun.com/*
 *://www.mk2048.com/*
-*://www.yanlutong.com/*
 *://www.dealmoon.com/*
 *://www.xbfhb.com/*
 *://www.ngui.cc/*
@@ -971,8 +970,6 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.cn7kan.org.cn/*
 *://www.oschina.net/informat/*
 *://www.getit01.com/*
-*://www.9game.cn/*
-*://a.9game.cn/*
 *://www.qt6.com/*
 *://ppfocus.com/*
 *://www.shouji.com.cn/*
@@ -1179,7 +1176,6 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.uy5.net/*
 *://*.uzhuangji.net/*
 *://*.vmu.me/*
-*://*.volcengine.com/*
 *://*.w7ghost.net/*
 *://*.wb0311.com/*
 *://*.wbto.cn/*
