@@ -1208,3 +1208,7 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.zhuajiyou.com/*
 *://*.zhuomeng.com/*
 *://*.zuszw.com/*
+*://doubao.com/*
+*://www.doubao.com/*
+*://douyin.com/*
+*://www.douyin.com/*
