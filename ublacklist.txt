@@ -1212,3 +1212,4 @@ title/.* - 小.(百科 | 知识) 网/
 *://www.doubao.com/*
 *://douyin.com/*
 *://www.douyin.com/*
+*://*.jimowang.com/*
