@@ -1213,3 +1213,5 @@ title/.* - 小.(百科 | 知识) 网/
 *://douyin.com/*
 *://www.douyin.com/*
 *://*.jimowang.com/*
+*://docs.pingcode.com/*
+*://*.worktile.com/kb/*
