@@ -1215,3 +1215,6 @@ title/.* - 小.(百科 | 知识) 网/
 *://*.jimowang.com/*
 *://docs.pingcode.com/*
 *://*.worktile.com/kb/*
+*://*.gitcode.com/*
+*://*.gitcode.net/*
+*://*.gitcode.host/*
