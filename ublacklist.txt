@@ -1273,3 +1273,4 @@ title/.* - 小.(百科 | 知识) 网/
 *://*zh-chrom.cn//*
 *://*zh-google.org.cn//*
 *://ailegal.baidu.com//*
+*://lemon.baidu.com//*
