@@ -1296,3 +1296,4 @@ title/.* - 小.(百科 | 知识) 网/
 @*://*.perplexity.ai/*
 @*://*.copilot.microsoft.com/*
 @*://*.copilot.github.com/*
+@*://*.npmmirror.com/*
